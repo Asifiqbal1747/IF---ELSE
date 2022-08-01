@@ -1,0 +1,6 @@
+table {text-align:center; border: solid 2px black ; width: 100%;}
+td { border: dotted 3px blue;}
+th { border: solid 2px red;}
+.redgreen{ color: aquamarine;
+ background-color: rgb(255, 47, 206);}
+.greenblack{ font-color:gray; background-color: rgb(70, 231, 231);}
